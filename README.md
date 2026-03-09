@@ -1,7 +1,4 @@
-
-  # Create responsive creative website
-
-  This is a code bundle for Create responsive creative website. The original project is available at https://www.figma.com/design/CT8QlxZdGbdfQbZCuxNgG1/Create-responsive-creative-website.
+This is a code bundle for Create responsive creative website. The original project is available at https://www.figma.com/design/CT8QlxZdGbdfQbZCuxNgG1/Create-responsive-creative-website.
 
   ## Running the code
 
